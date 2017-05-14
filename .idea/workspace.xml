@@ -1,0 +1,1337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="212efd77-fcf5-48c1-a98e-c32988dfeeba" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/icomoon/fonts/icomoon.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/icomoon/fonts/icomoon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/icomoon/fonts/icomoon.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/fonts/map-icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/fonts/map-icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/fonts/map-icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/dist/fonts/map-icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/dist/fonts/map-icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/dist/fonts/map-icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/docs/images/social.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ajax-loader-dark.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/computer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/fancybox_sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/fancybox_sprite@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/socialnetworks/Behance.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/socialnetworks/Blogger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/socialnetworks/Deviantart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/socialnetworks/Dribbble.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/socialnetworks/Dropbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/socialnetworks/Facebook-Pages.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/socialnetworks/Facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/socialnetworks/Forrst.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/socialnetworks/GooglePlus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/socialnetworks/Instagram.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/socialnetworks/Keek.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/socialnetworks/LinkedIn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/socialnetworks/Pinterest.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/socialnetworks/Skype.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/socialnetworks/Tumblr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/socialnetworks/Twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/socialnetworks/Vimeo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/socialnetworks/Youtube.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logos/decathlon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logos/ereputationdefender.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logos/flintgroup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logos/manorga.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logos/partenairepologne.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-avatar-64x64-dark.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rs-avatar-64x64.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/behance-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/behance-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/behance-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/behance-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/behance-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/behance-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/dribbble-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/dribbble-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/dribbble-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/dribbble-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/dribbble-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/dribbble-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/facebook-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/facebook-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/facebook-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/facebook-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/facebook-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/facebook-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/google-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/google-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/google-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/google-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/google-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/google-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/image-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/image-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/image-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/image-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/image-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/instagram-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/instagram-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/instagram-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/instagram-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/instagram-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/instagram-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/linkedin-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/linkedin-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/linkedin-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/linkedin-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/linkedin-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/linkedin-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/logo-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/logo-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/logo-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/logo-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/mail-w.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/mail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/mobile-w.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/mobile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/phone-w.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/pinterest-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/pinterest-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/pinterest-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/pinterest-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/pinterest-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/pinterest-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/rss-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/rss-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/rss-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/rss-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/rss-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/rss-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/twitter-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/twitter-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/twitter-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/twitter-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/twitter-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/twitter-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/vimeo-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/vimeo-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/vimeo-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/vimeo-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/vimeo-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/vimeo-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/vine-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/vine-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/vine-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/vine-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/vine-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/vine-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/website-w.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/website.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/youtube-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/youtube-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/youtube-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/youtube-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/youtube-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/signature/youtube-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/valentinmaupin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.bxslider/images/bx_loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.bxslider/images/controls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.customscroll/js/minified/jquery.mCustomScrollbar.min.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.customscroll/mCSB_buttons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.fancybox/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.fancybox/fancybox_loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.fancybox/fancybox_loading@2x.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.fancybox/fancybox_overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.fancybox/fancybox_sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.fancybox/fancybox_sprite@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.fancybox/helpers/fancybox_buttons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mediaelement/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mediaelement/bigplay.fw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mediaelement/bigplay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mediaelement/controls (1).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mediaelement/controls-ted.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mediaelement/controls-wmp-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mediaelement/controls-wmp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mediaelement/controls.fw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mediaelement/controls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mediaelement/flashmediaelement-cdn.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mediaelement/flashmediaelement-debug.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mediaelement/flashmediaelement.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mediaelement/jumpforward.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mediaelement/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mediaelement/silverlightmediaelement.xap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mediaelement/skipback.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.owlcarousel/AjaxLoader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.owlcarousel/grabbing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.buildpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/CV.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/404.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ajax/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ajax/maps-api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ajax/portfolio.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/amber.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/blue-grey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/brown.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/coral.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/cyan.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/deep-orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/deep-purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/grey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/indigo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/light-blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/light-green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/lime.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/pale-coral.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/pale-cyan.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/pale-green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/pale-pink.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/pale-purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/pale-red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/pale-teal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/pale-violet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/pink.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/royal-blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/teal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/turquoise.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/violet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/colors/yellow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/cyrillic-ext.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.5.0/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fredoka-one.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/icomoon/fonts/icomoon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/icomoon/selection.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/icomoon/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/css/map-icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/css/map-icons.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/fonts/map-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/js/map-icons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/js/map-icons.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/.netbeans.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/CNAME" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/dist/css/map-icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/dist/css/map-icons.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/dist/fonts/map-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/dist/js/map-icons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/dist/js/map-icons.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/dist/less/map-icons-variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/dist/sass/map-icons-variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/docs/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/docs/styles/components/icon.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/docs/styles/components/map.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/docs/styles/components/marker.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/docs/styles/main.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/docs/styles/template/content.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/docs/styles/template/footer.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/docs/styles/template/header.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/docs/styles/template/licence.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/docs/styles/theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/docs/styles/turret.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/example/example.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/example/example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/abseiling.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/accounting.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/airport.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/amusement-park.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/aquarium.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/archery.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/art-gallery.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/assistive-listening-system.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/atm.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/audio-description.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/bakery.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/bank.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/bar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/baseball.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/beauty-salon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/bicycle-store.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/bicycling.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/boat-ramp.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/boat-tour.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/boating.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/book-store.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/bowling-alley.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/braille.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/bus-station.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/cafe.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/campground.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/canoe.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/car-dealer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/car-rental.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/car-repair.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/car-wash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/casino.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/cemetery.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/chairlift.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/church.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/city-hall.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/climbing.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/closed-captioning.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/clothing-store.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/compass.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/convenience-store.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/courthouse.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/cross-country-skiing.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/crosshairs.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/dentist.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/department-store.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/diving.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/doctor.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/electrician.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/electronics-store.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/embassy.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/expand.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/female.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/finance.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/fire-station.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/fish-cleaning.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/fishing-pier.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/fishing.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/florist.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/food.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/fullscreen.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/funeral-home.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/furniture-store.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/gas-station.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/general-contractor.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/golf.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/grocery-or-supermarket.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/gym.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/hair-care.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/hang-gliding.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/hardware-store.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/health.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/hindu-temple.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/horse-riding.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/hospital.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/ice-fishing.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/ice-skating.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/inline-skating.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/insurance-agency.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/jet-skiing.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/jewelry-store.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/kayaking.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/laundry.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/lawyer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/library.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/liquor-store.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/local-government.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/location-arrow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/locksmith.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/lodging.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/low-vision-access.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/male.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/map-pin.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/marina.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/mosque.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/motobike-trail.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/movie-rental.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/movie-theater.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/moving-company.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/museum.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/natural-feature.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/night-club.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/open-captioning.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/painter.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/park.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/parking.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/pet-store.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/pharmacy.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/physiotherapist.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/place-of-worship.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/playground.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/plumber.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/point-of-interest.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/police.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/political.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/post-box.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/post-office.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/postal-code-prefix.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/postal-code.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/rafting.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/real-estate-agency.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/restaurant.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/roofing-contractor.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/route-pin.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/route.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/rv-park.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/sailing.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/school.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/scuba-diving.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/search.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/sheild.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/shopping-mall.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/sign-language.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/skateboarding.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/ski-jumping.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/skiing.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/sledding.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/snow-shoeing.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/snow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/snowboarding.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/snowmobile.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/spa.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/square-pin.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/square-rounded.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/stadium.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/storage.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/store.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/subway-station.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/surfing (1).svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/surfing.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/swimming.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/synagogue.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/taxi-stand.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/tennis.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/toilet.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/trail-walking.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/train-station.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/transit-station.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/travel-agency.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/unisex.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/university.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/veterinary-care.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/viewing.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/volume-control-telephone.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/walking.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/waterskiing.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/whale-watching.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/wheelchair.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/wind-surfing.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/zoo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/zoom-in-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/zoom-in.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/zoom-out-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/icons/zoom-out.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/markers/map-pin.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/markers/route.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/markers/shield.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/markers/square-pin.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/markers/square-rounded.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/map-icons/map-icons-master/src/markers/square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/libs/googlemapsapi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/libs/jquery.1.11.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/libs/modernizr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/imagesloaded.pkgd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/isotope.pkgd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.appear.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.bxslider/jquery.bxslider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.bxslider/jquery.bxslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.bxslider/jquery.bxslider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.bxslider/plugins/jquery.easing.1.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.bxslider/plugins/jquery.fitvids.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.customscroll/jquery.mCustomScrollbar.concat.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.customscroll/jquery.mCustomScrollbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.customscroll/jquery.mCustomScrollbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.customscroll/jquery.mCustomScrollbar.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.customscroll/js/minified/jquery-1.11.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.customscroll/js/minified/jquery-1.9.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.customscroll/js/minified/jquery-2.1.0.min (1).js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.customscroll/js/minified/jquery-2.1.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.customscroll/js/minified/jquery-ui-1.10.4.min (1).js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.customscroll/js/minified/jquery-ui-1.10.4.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.customscroll/js/minified/jquery.mCustomScrollbar.min (1).js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.customscroll/js/minified/jquery.mCustomScrollbar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.customscroll/js/minified/jquery.mousewheel-3.0.6.min (1).js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.customscroll/js/minified/jquery.mousewheel-3.0.6.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.customscroll/js/minified/jquery.mousewheel.min (1).js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.customscroll/js/minified/jquery.mousewheel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.customscroll/js/uncompressed/jquery.mCustomScrollbar (1).js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.customscroll/js/uncompressed/jquery.mCustomScrollbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.customscroll/js/uncompressed/jquery.mousewheel-3.0.6 (1).js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.customscroll/js/uncompressed/jquery.mousewheel-3.0.6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.customscroll/js/uncompressed/jquery.mousewheel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.fancybox/helpers/jquery.fancybox-buttons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.fancybox/helpers/jquery.fancybox-buttons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.fancybox/helpers/jquery.fancybox-media.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.fancybox/helpers/jquery.fancybox-thumbs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.fancybox/helpers/jquery.fancybox-thumbs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.fancybox/jquery.fancybox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.fancybox/jquery.fancybox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.fancybox/jquery.fancybox.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mediaelement/DO NOT CHANGE THESE FILES. USE -src- FOLDER (1).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mediaelement/DO NOT CHANGE THESE FILES. USE -src- FOLDER.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mediaelement/bigplay.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mediaelement/controls.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mediaelement/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mediaelement/mediaelement-and-player.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mediaelement/mediaelement-and-player.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mediaelement/mediaelement.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mediaelement/mediaelement.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mediaelement/mediaelementplayer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mediaelement/mediaelementplayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mediaelement/mediaelementplayer.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mediaelement/mediaelementplayer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mediaelement/mejs-skins.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.mousewheel-3.0.6.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.onepagenav.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.owlcarousel/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.owlcarousel/owl.carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.owlcarousel/owl.carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.owlcarousel/owl.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugins/jquery.owlcarousel/owl.transitions.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/site.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/site.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mentionslegales-en.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mentionslegales.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/private/private.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/private/private.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/project.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/project.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/perso.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/PHPMailerAutoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/class.phpmailer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/class.phpmaileroauth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/class.phpmaileroauthgoogle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/class.pop3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/class.smtp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/contact_form old.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/contact_form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/get_oauth_token.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/mailsender.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/recaptcha/ReCaptcha/ReCaptcha.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/recaptcha/ReCaptcha/RequestMethod.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/recaptcha/ReCaptcha/RequestMethod/Curl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/recaptcha/ReCaptcha/RequestMethod/CurlPost.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/recaptcha/ReCaptcha/RequestMethod/Post.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/recaptcha/ReCaptcha/RequestMethod/Socket.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/recaptcha/ReCaptcha/RequestMethod/SocketPost.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/recaptcha/ReCaptcha/RequestParameters.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/recaptcha/ReCaptcha/Response.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/recaptcha/autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/recaptcha.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sitemap.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/translation/en.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/translation/fr.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.48023427">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/index.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-85">
+                  <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="fr.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/translation/fr.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="106">
+                  <caret line="199" column="33" lean-forward="false" selection-start-line="199" selection-start-column="33" selection-end-line="199" selection-end-column="33" />
+                  <folding>
+                    <marker date="1494759412129" expanded="true" signature="3444:3816" ph="..." />
+                    <marker date="1494759412129" expanded="false" signature="4035:4041" ph="'" />
+                    <marker date="1494759412129" expanded="false" signature="4124:4130" ph="'" />
+                    <marker date="1494759412129" expanded="true" signature="4236:4695" ph="..." />
+                    <marker date="1494759412129" expanded="false" signature="4633:4639" ph="'" />
+                    <marker date="1494759412129" expanded="true" signature="4823:5366" ph="..." />
+                    <marker date="1494759412129" expanded="false" signature="5283:5289" ph="'" />
+                    <marker date="1494759412129" expanded="false" signature="5675:5681" ph="'" />
+                    <marker date="1494759412129" expanded="false" signature="5836:5842" ph="'" />
+                    <marker date="1494759412129" expanded="true" signature="5951:6277" ph="..." />
+                    <marker date="1494759412129" expanded="false" signature="6021:6027" ph="'" />
+                    <marker date="1494759412129" expanded="false" signature="6072:6078" ph="'" />
+                    <marker date="1494759412129" expanded="true" signature="6405:6603" ph="..." />
+                    <marker date="1494759412129" expanded="true" signature="6405:7019" ph="..." />
+                    <marker date="1494759412129" expanded="true" signature="6604:6610" ph="'" />
+                    <marker date="1494759412129" expanded="false" signature="7376:7382" ph="'" />
+                    <marker date="1494759412129" expanded="false" signature="7390:7396" ph="'" />
+                    <marker date="1494759412129" expanded="false" signature="7845:7851" ph="'" />
+                    <marker date="1494759412129" expanded="true" signature="8043:8454" ph="..." />
+                    <marker date="1494759412129" expanded="false" signature="8192:8198" ph="'" />
+                    <marker date="1494759412129" expanded="false" signature="8380:8386" ph="'" />
+                    <marker date="1494759412129" expanded="true" signature="9063:9912" ph="..." />
+                    <marker date="1494759412129" expanded="false" signature="9162:9168" ph="'" />
+                    <marker date="1494759412129" expanded="false" signature="9266:9272" ph="'" />
+                    <marker date="1494759412129" expanded="false" signature="9806:9812" ph="'" />
+                    <marker date="1494759412129" expanded="false" signature="10171:10177" ph="'" />
+                    <marker date="1494759412129" expanded="false" signature="10310:10316" ph="'" />
+                    <marker date="1494759412129" expanded="true" signature="10399:10894" ph="..." />
+                    <marker date="1494759412129" expanded="false" signature="10480:10486" ph="'" />
+                    <marker date="1494759412129" expanded="false" signature="10810:10816" ph="'" />
+                    <marker date="1494759412129" expanded="true" signature="11277:11806" ph="..." />
+                    <marker date="1494759412129" expanded="true" signature="11322:11404" ph="..." />
+                    <marker date="1494759412129" expanded="false" signature="11333:11339" ph="'" />
+                    <marker date="1494759412129" expanded="false" signature="11487:11493" ph="'" />
+                    <marker date="1494759412129" expanded="false" signature="11707:11713" ph="'" />
+                    <marker date="1494759412129" expanded="true" signature="12320:12595" ph="..." />
+                    <marker date="1494759412129" expanded="true" signature="12383:12582" ph="..." />
+                    <marker date="1494759412129" expanded="true" signature="12692:12993" ph="..." />
+                    <marker date="1494759412129" expanded="false" signature="12753:12759" ph="'" />
+                    <marker date="1494759412129" expanded="false" signature="12804:12810" ph="'" />
+                    <marker date="1494759412129" expanded="false" signature="12878:12884" ph="'" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="en.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/translation/en.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="108">
+                  <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+                  <folding>
+                    <marker date="1494759395195" expanded="true" signature="3235:3525" ph="..." />
+                    <marker date="1494759395195" expanded="false" signature="3884:3890" ph="'" />
+                    <marker date="1494759395195" expanded="true" signature="4063:4472" ph="..." />
+                    <marker date="1494759395195" expanded="true" signature="4582:5065" ph="..." />
+                    <marker date="1494759395195" expanded="false" signature="5427:5433" ph="'" />
+                    <marker date="1494759395195" expanded="true" signature="5642:5956" ph="..." />
+                    <marker date="1494759395195" expanded="true" signature="6071:6590" ph="..." />
+                    <marker date="1494759395195" expanded="false" signature="7443:7449" ph="'" />
+                    <marker date="1494759395195" expanded="true" signature="7579:7912" ph="..." />
+                    <marker date="1494759395195" expanded="true" signature="8534:9295" ph="..." />
+                    <marker date="1494759395195" expanded="true" signature="9571:9749" ph="..." />
+                    <marker date="1494759395195" expanded="true" signature="9894:10390" ph="..." />
+                    <marker date="1494759395195" expanded="true" signature="10601:10692" ph="..." />
+                    <marker date="1494759395195" expanded="true" signature="10627:10687" ph="..." />
+                    <marker date="1494759395195" expanded="true" signature="10795:11344" ph="..." />
+                    <marker date="1494759395195" expanded="true" signature="10840:11011" ph="..." />
+                    <marker date="1494759395195" expanded="false" signature="10861:10867" ph="'" />
+                    <marker date="1494759395195" expanded="true" signature="11808:12019" ph="..." />
+                    <marker date="1494759395195" expanded="true" signature="12117:12372" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="en.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/translation/en.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="227">
+                  <caret line="206" column="14" lean-forward="false" selection-start-line="206" selection-start-column="14" selection-end-line="206" selection-end-column="14" />
+                  <folding>
+                    <marker date="1494759395195" expanded="true" signature="3235:3525" ph="..." />
+                    <marker date="1494759395195" expanded="false" signature="3884:3890" ph="'" />
+                    <marker date="1494759395195" expanded="true" signature="4063:4472" ph="..." />
+                    <marker date="1494759395195" expanded="true" signature="4582:5065" ph="..." />
+                    <marker date="1494759395195" expanded="false" signature="5427:5433" ph="'" />
+                    <marker date="1494759395195" expanded="true" signature="5642:5956" ph="..." />
+                    <marker date="1494759395195" expanded="true" signature="6071:6590" ph="..." />
+                    <marker date="1494759395195" expanded="false" signature="7443:7449" ph="'" />
+                    <marker date="1494759395195" expanded="true" signature="7579:7912" ph="..." />
+                    <marker date="1494759395195" expanded="true" signature="8534:9295" ph="..." />
+                    <marker date="1494759395195" expanded="true" signature="9571:9749" ph="..." />
+                    <marker date="1494759395195" expanded="true" signature="9894:10390" ph="..." />
+                    <marker date="1494759395195" expanded="true" signature="10601:10692" ph="..." />
+                    <marker date="1494759395195" expanded="true" signature="10627:10687" ph="..." />
+                    <marker date="1494759395195" expanded="true" signature="10795:11344" ph="..." />
+                    <marker date="1494759395195" expanded="true" signature="10840:11011" ph="..." />
+                    <marker date="1494759395195" expanded="false" signature="10861:10867" ph="'" />
+                    <marker date="1494759395195" expanded="true" signature="11808:12019" ph="..." />
+                    <marker date="1494759395195" expanded="true" signature="12117:12372" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>link</find>
+      <find>dri</find>
+      <find>down</find>
+      <find>recherc</find>
+      <find>rec</find>
+      <find>télécom-lille</find>
+      <find>réseaux</find>
+      <find>Télécom</find>
+      <find>java</find>
+      <find>anglais</find>
+      <find>skills</find>
+      <find>qualities</find>
+      <find>qualit</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>IMT Lille Douai</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/translation/en.php" />
+        <option value="$PROJECT_DIR$/translation/fr.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CV" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CV" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CV" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CV" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="translation" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="212efd77-fcf5-48c1-a98e-c32988dfeeba" name="Default" comment="" />
+      <created>1491844627121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1491844627121</updated>
+      <workItem from="1491844628708" duration="654000" />
+      <workItem from="1491845359811" duration="224000" />
+      <workItem from="1491845780190" duration="864000" />
+      <workItem from="1494756560641" duration="3488000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5230000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/translation/fr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="83" lean-forward="false" selection-start-line="65" selection-start-column="83" selection-end-line="65" selection-end-column="83" />
+          <folding>
+            <marker date="1494759412129" expanded="true" signature="3444:3816" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="4035:4041" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="4124:4130" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="4236:4695" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="4633:4639" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="4823:5366" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="5283:5289" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="5675:5681" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="5836:5842" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="5951:6277" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="6021:6027" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="6072:6078" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="6405:6603" ph="..." />
+            <marker date="1494759412129" expanded="true" signature="6405:7019" ph="..." />
+            <marker date="1494759412129" expanded="true" signature="6604:6610" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="7376:7382" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="7390:7396" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="7845:7851" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="8043:8454" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="8192:8198" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="8380:8386" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="9063:9912" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="9162:9168" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="9266:9272" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="9806:9812" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="10171:10177" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="10310:10316" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="10399:10894" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="10480:10486" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="10810:10816" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="11277:11806" ph="..." />
+            <marker date="1494759412129" expanded="true" signature="11322:11404" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="11333:11339" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="11487:11493" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="11707:11713" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="12320:12595" ph="..." />
+            <marker date="1494759412129" expanded="true" signature="12383:12582" ph="..." />
+            <marker date="1494759412129" expanded="true" signature="12692:12993" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="12753:12759" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="12804:12810" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="12878:12884" ph="'" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/translation/en.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="83" lean-forward="false" selection-start-line="64" selection-start-column="83" selection-end-line="64" selection-end-column="83" />
+          <folding>
+            <marker date="1494759395195" expanded="true" signature="3235:3525" ph="..." />
+            <marker date="1494759395195" expanded="false" signature="3884:3890" ph="'" />
+            <marker date="1494759395195" expanded="true" signature="4063:4472" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="4582:5065" ph="..." />
+            <marker date="1494759395195" expanded="false" signature="5427:5433" ph="'" />
+            <marker date="1494759395195" expanded="true" signature="5642:5956" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="6071:6590" ph="..." />
+            <marker date="1494759395195" expanded="false" signature="7443:7449" ph="'" />
+            <marker date="1494759395195" expanded="true" signature="7579:7912" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="8534:9295" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="9571:9749" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="9894:10390" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="10601:10692" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="10627:10687" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="10795:11344" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="10840:11011" ph="..." />
+            <marker date="1494759395195" expanded="false" signature="10861:10867" ph="'" />
+            <marker date="1494759395195" expanded="true" signature="11808:12019" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="12117:12372" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/translation/fr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="99" lean-forward="false" selection-start-line="65" selection-start-column="99" selection-end-line="65" selection-end-column="99" />
+          <folding>
+            <marker date="1494759412129" expanded="true" signature="3444:3816" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="4035:4041" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="4124:4130" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="4236:4695" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="4633:4639" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="4823:5366" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="5283:5289" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="5675:5681" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="5836:5842" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="5951:6277" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="6021:6027" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="6072:6078" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="6405:6603" ph="..." />
+            <marker date="1494759412129" expanded="true" signature="6405:7019" ph="..." />
+            <marker date="1494759412129" expanded="true" signature="6604:6610" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="7376:7382" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="7390:7396" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="7845:7851" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="8043:8454" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="8192:8198" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="8380:8386" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="9063:9912" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="9162:9168" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="9266:9272" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="9806:9812" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="10171:10177" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="10310:10316" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="10399:10894" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="10480:10486" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="10810:10816" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="11277:11806" ph="..." />
+            <marker date="1494759412129" expanded="true" signature="11322:11404" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="11333:11339" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="11487:11493" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="11707:11713" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="12320:12595" ph="..." />
+            <marker date="1494759412129" expanded="true" signature="12383:12582" ph="..." />
+            <marker date="1494759412129" expanded="true" signature="12692:12993" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="12753:12759" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="12804:12810" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="12878:12884" ph="'" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/translation/en.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="99" lean-forward="false" selection-start-line="64" selection-start-column="99" selection-end-line="64" selection-end-column="99" />
+          <folding>
+            <marker date="1494759395195" expanded="true" signature="3235:3525" ph="..." />
+            <marker date="1494759395195" expanded="false" signature="3884:3890" ph="'" />
+            <marker date="1494759395195" expanded="true" signature="4063:4472" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="4582:5065" ph="..." />
+            <marker date="1494759395195" expanded="false" signature="5427:5433" ph="'" />
+            <marker date="1494759395195" expanded="true" signature="5642:5956" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="6071:6590" ph="..." />
+            <marker date="1494759395195" expanded="false" signature="7443:7449" ph="'" />
+            <marker date="1494759395195" expanded="true" signature="7579:7912" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="8534:9295" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="9571:9749" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="9894:10390" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="10601:10692" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="10627:10687" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="10795:11344" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="10840:11011" ph="..." />
+            <marker date="1494759395195" expanded="false" signature="10861:10867" ph="'" />
+            <marker date="1494759395195" expanded="true" signature="11808:12019" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="12117:12372" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/translation/fr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="99" lean-forward="false" selection-start-line="65" selection-start-column="99" selection-end-line="65" selection-end-column="99" />
+          <folding>
+            <marker date="1494759412129" expanded="true" signature="3444:3816" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="4035:4041" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="4124:4130" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="4236:4695" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="4633:4639" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="4823:5366" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="5283:5289" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="5675:5681" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="5836:5842" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="5951:6277" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="6021:6027" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="6072:6078" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="6405:6603" ph="..." />
+            <marker date="1494759412129" expanded="true" signature="6405:7019" ph="..." />
+            <marker date="1494759412129" expanded="true" signature="6604:6610" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="7376:7382" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="7390:7396" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="7845:7851" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="8043:8454" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="8192:8198" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="8380:8386" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="9063:9912" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="9162:9168" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="9266:9272" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="9806:9812" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="10171:10177" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="10310:10316" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="10399:10894" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="10480:10486" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="10810:10816" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="11277:11806" ph="..." />
+            <marker date="1494759412129" expanded="true" signature="11322:11404" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="11333:11339" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="11487:11493" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="11707:11713" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="12320:12595" ph="..." />
+            <marker date="1494759412129" expanded="true" signature="12383:12582" ph="..." />
+            <marker date="1494759412129" expanded="true" signature="12692:12993" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="12753:12759" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="12804:12810" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="12878:12884" ph="'" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/translation/en.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="99" lean-forward="false" selection-start-line="64" selection-start-column="99" selection-end-line="64" selection-end-column="99" />
+          <folding>
+            <marker date="1494759395195" expanded="true" signature="3235:3525" ph="..." />
+            <marker date="1494759395195" expanded="false" signature="3884:3890" ph="'" />
+            <marker date="1494759395195" expanded="true" signature="4063:4472" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="4582:5065" ph="..." />
+            <marker date="1494759395195" expanded="false" signature="5427:5433" ph="'" />
+            <marker date="1494759395195" expanded="true" signature="5642:5956" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="6071:6590" ph="..." />
+            <marker date="1494759395195" expanded="false" signature="7443:7449" ph="'" />
+            <marker date="1494759395195" expanded="true" signature="7579:7912" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="8534:9295" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="9571:9749" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="9894:10390" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="10601:10692" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="10627:10687" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="10795:11344" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="10840:11011" ph="..." />
+            <marker date="1494759395195" expanded="false" signature="10861:10867" ph="'" />
+            <marker date="1494759395195" expanded="true" signature="11808:12019" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="12117:12372" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="11" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6646" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recaptcha.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="254" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/perso.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="12" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mentionslegales-en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="341" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mentionslegales.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="344" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="206" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/translation/fr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="199" column="33" lean-forward="false" selection-start-line="199" selection-start-column="33" selection-end-line="199" selection-end-column="33" />
+          <folding>
+            <marker date="1494759412129" expanded="true" signature="3444:3816" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="4035:4041" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="4124:4130" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="4236:4695" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="4633:4639" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="4823:5366" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="5283:5289" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="5675:5681" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="5836:5842" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="5951:6277" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="6021:6027" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="6072:6078" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="6405:6603" ph="..." />
+            <marker date="1494759412129" expanded="true" signature="6405:7019" ph="..." />
+            <marker date="1494759412129" expanded="true" signature="6604:6610" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="7376:7382" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="7390:7396" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="7845:7851" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="8043:8454" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="8192:8198" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="8380:8386" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="9063:9912" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="9162:9168" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="9266:9272" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="9806:9812" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="10171:10177" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="10310:10316" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="10399:10894" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="10480:10486" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="10810:10816" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="11277:11806" ph="..." />
+            <marker date="1494759412129" expanded="true" signature="11322:11404" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="11333:11339" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="11487:11493" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="11707:11713" ph="'" />
+            <marker date="1494759412129" expanded="true" signature="12320:12595" ph="..." />
+            <marker date="1494759412129" expanded="true" signature="12383:12582" ph="..." />
+            <marker date="1494759412129" expanded="true" signature="12692:12993" ph="..." />
+            <marker date="1494759412129" expanded="false" signature="12753:12759" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="12804:12810" ph="'" />
+            <marker date="1494759412129" expanded="false" signature="12878:12884" ph="'" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/translation/en.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="206" column="14" lean-forward="false" selection-start-line="206" selection-start-column="14" selection-end-line="206" selection-end-column="14" />
+          <folding>
+            <marker date="1494759395195" expanded="true" signature="3235:3525" ph="..." />
+            <marker date="1494759395195" expanded="false" signature="3884:3890" ph="'" />
+            <marker date="1494759395195" expanded="true" signature="4063:4472" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="4582:5065" ph="..." />
+            <marker date="1494759395195" expanded="false" signature="5427:5433" ph="'" />
+            <marker date="1494759395195" expanded="true" signature="5642:5956" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="6071:6590" ph="..." />
+            <marker date="1494759395195" expanded="false" signature="7443:7449" ph="'" />
+            <marker date="1494759395195" expanded="true" signature="7579:7912" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="8534:9295" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="9571:9749" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="9894:10390" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="10601:10692" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="10627:10687" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="10795:11344" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="10840:11011" ph="..." />
+            <marker date="1494759395195" expanded="false" signature="10861:10867" ph="'" />
+            <marker date="1494759395195" expanded="true" signature="11808:12019" ph="..." />
+            <marker date="1494759395195" expanded="true" signature="12117:12372" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
