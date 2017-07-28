@@ -656,6 +656,22 @@ if (empty($_COOKIE['lang'])) {
                                     </li>
                                 </ul>
                                 <div id="map" data-latitude="50.611281" data-longitude="3.138174"></div>
+                                <script>
+                                    function initMap() {
+                                        var uluru = {lat: 50.611281, lng: 3.138174};
+                                        var map = new google.maps.Map(document.getElementById('map'), {
+                                            zoom: 4,
+                                            center: uluru
+                                        });
+                                        var marker = new google.maps.Marker({
+                                            position: uluru,
+                                            map: map
+                                        });
+                                    }
+                                </script>
+                                <script async defer
+                                        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAAhyTuD0ARwLChofsFVh7FDtzuSFYY4WU&callback=initMap">
+                                </script>
                             </div>
                         </div>
                     </div>

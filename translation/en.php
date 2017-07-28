@@ -60,11 +60,11 @@ $company = array(
 
 $text = array(
     'position' => 'Network engineer, telecommunications and computer engineer',
-    'description' => 'Seeking for an alternating contract in Java development. Start: 4 September 2017.',
+    'description' => 'In an alternating contract in Java development at Capgemini.',
     'download' => 'You can download a printable version of my CV (PDF):',
     'downloadDoc' => 'https://drive.google.com/open?id=0B0ZaRt_BzwGuNnpveXhMX05GOXc',
-    'bio' => 'I am currently studying in 2nd year of engineering studies (BAC +4/the second last year) at IMT Lille Douai (School resulting from the merger between Télécom-Lille and Mines de Douai). '
-        . 'I am looking for a an alternating contract in Java development (Java EE) starting the 4 September 2017',
+    'bio' => 'I am currently studying in the last year of engineering studies (BAC +5/the second last year) at IMT Lille Douai (School resulting from the merger between Télécom-Lille and Mines de Douai). '
+        . 'I start my alternating contract in Java development at Capgemini in September 2017',
 );
 
 
@@ -75,9 +75,9 @@ $education = array(
                                         <h4>Clermont 60 600, France</h4>
                                         <p>French scientific High School Diploma (equivalent to A levels). Main subjects studied :</p>
                                         <ul>
-                                        <li>Science: Mathematics, Physics, Biology, IT</li>
-                                        <li>Languages: French, English, German</li>
-                                        <li>History, Geography</li>
+                                            <li>Science: Mathematics, Physics, Biology, IT</li>
+                                            <li>Languages: French, English, German</li>
+                                            <li>History, Geography</li>
                                         </ul>',
     'prepa' => '<span class="arrow"></span>
                                         <div class="date"><span>2013-2015</span></div>
@@ -85,17 +85,17 @@ $education = array(
                                         <h4>Télécom-Lille: IT networks & Telecommunications engineering school<br>Villeneuve d&apos;Ascq (59 650)</h4>
                                         <p>Main subjects studied :</p>                                        
                                         <ul>
-                                        <li><b>Teamwork</b> : many theoretical and practical group projects.</li>
-                                        <li>Learning of the oral/written communication in a company through works and oral presentations</li>
-                                        <li>Learning to make project reports and summaries of studies</li>
+                                            <li><b>Teamwork</b> : many theoretical and practical group projects.</li>
+                                            <li>Learning of the oral/written communication in a company through works and oral presentations</li>
+                                            <li>Learning to make project reports and summaries of studies</li>
                                         </ul>
                                         <p>Subjects studied:</p>
                                         <ul>
-                                        <li>Electronics, materials physics, Electromagnetism</li>
-                                        <li>Mathematics, probability and statistics</li>
-                                        <li>IT (C language programming and IT Networks)</li>
-                                        <li>Languages (English & German)</li>
-                                        <li>Accounting and economy basics</li>
+                                            <li>Electronics, materials physics, Electromagnetism</li>
+                                            <li>Mathematics, probability and statistics</li>
+                                            <li>IT (C language programming and IT Networks)</li>
+                                            <li>Languages (English & German)</li>
+                                            <li>Accounting and economy basics</li>
                                         </ul>',
     'inge' => '                     <span class="arrow"></span>
                                         <div class="date"><span>Since sept. 2015</span></div>
@@ -103,17 +103,20 @@ $education = array(
                                         <h4>IMT Lille Douai: IT networks & Telecommunications engineering school<br>Villeneuve d&apos;Ascq (59 650)</h4>
                                         <p>Currently in the fourth year of my engineer curriculum long of 5 years.<br>Main qualities provided:</p>
                                         <ul>
-                                        <li>Learn to adapt quickly thanks to the multitude of courses/training followed</li>
-                                        <li>Discipline and organization are required to successfully complete each year of the curriculum</li>
+                                            <Li> Software Engineering (Advanced Java Development) </li>
+                                            <Li> Application Design for Information System </li>
+                                            <Li> Distributed Architectures Engineering (Advanced Java Development) </li>
+                                            <Li> BIG Multimedia DATA (in Java) </li>
+                                            <Li> Management of Consulting and Service Activities </li>
                                         </ul>
-                                        <p>Main subjects studied:</p>
+                                        <p>Other subjects studied:</p>
                                         <ul>
-                                        <li>Specialization in Java programming</li>
-                                        <li>Information Systems and IT Networks</li>
-                                        <li>electronic</li>
-                                        <li>Communication signals</li>
-                                        <li>Languages (English & German)</li>
-                                        <li>Marketing, Communication, Accounting, Finance</li>
+                                            <li>Specialization in Java programming</li>
+                                            <li>Information Systems and IT Networks</li>
+                                            <li>electronic</li>
+                                            <li>Communication signals</li>
+                                            <li>Languages (English & German)</li>
+                                            <li>Marketing, Communication, Accounting, Finance</li>
                                         </ul>'
 );
 
@@ -129,10 +132,10 @@ $skills = array(
                                         <h3>Internship to discover of the professional world</h3>
                                         <h4>Villeneuve d&apos;Ascq (59 650), France<br>An international company in the sport items distribution</h4>
                                         <ul>
-                                        <li>Information and advices to customers</li>
-                                        <li>Stock inventory</li>
-                                        <li>Preparation of customer orders</li>
-                                        <li>Casher</li>
+                                            <li>Information and advices to customers</li>
+                                            <li>Stock inventory</li>
+                                            <li>Preparation of customer orders</li>
+                                            <li>Casher</li>
                                         </ul>',
     'manorga' => '                             <span class="arrow"></span>
                                         <div class="date">2015 : April-June</div>
@@ -141,11 +144,11 @@ $skills = array(
                                         <h4>59 690 Lys-lez-Lannoy, France<br>Company of producing industrial shelving</h4>
                                         Discovery of computer networks in a company through the following missions:
                                         <ul>
-                                        <li>Understanding and analysis of computer networks/equipment used</li>
-                                        <li>Cration of a Redmine server (Project management through a Web application) on Linux (Debian 7)</li>
-                                        <li>Migration of domains of posts clients during the change of Active Directory </li>
-                                        <li>Migration of posts toward a new mail server ((from Postfix with Thunderbird to Microsoft Exchange with Outlook) and server settings</li>
-                                        <li>Analysis of the functioning of VPN (more particularly VPN MPLS)</li>
+                                            <li>Understanding and analysis of computer networks/equipment used</li>
+                                            <li>Cration of a Redmine server (Project management through a Web application) on Linux (Debian 7)</li>
+                                            <li>Migration of domains of posts clients during the change of Active Directory </li>
+                                            <li>Migration of posts toward a new mail server ((from Postfix with Thunderbird to Microsoft Exchange with Outlook) and server settings</li>
+                                            <li>Analysis of the functioning of VPN (more particularly VPN MPLS)</li>
                                       
                                         </ul>',
     'erd' => '<span class="arrow"></span>
@@ -155,10 +158,10 @@ $skills = array(
                                         Startup specialized in management of ereputation, community management and training in social media</h4>
                                         Understanding of the marketing function and its importance:
                                         <ul>
-                                        <li>Marketing analysis of the company</li>
-                                        <li>Analysis of the internal and external communication</li>
-                                        <li>Creation and organization of professional pages on social networks (Facebook, Linked-in, Twitter, Google+, ...)</li>
-                                        <li>Creation of the company website ereputationdefender.com</li>
+                                            <li>Marketing analysis of the company</li>
+                                            <li>Analysis of the internal and external communication</li>
+                                            <li>Creation and organization of professional pages on social networks (Facebook, Linked-in, Twitter, Google+, ...)</li>
+                                            <li>Creation of the company website ereputationdefender.com</li>
                                         </ul>',
     'partpol' => '<div class="date">2016-2017 : Aug-Jan</div>
                                         <h3>IT internship at Partenaire Pologne (Krakow, Poland)</h3>
@@ -166,11 +169,11 @@ $skills = array(
                                         Consulting company.</h4>
                                         Web development :
                                         <ul>
-                                        <li>Creation of a client&apos;website. 
-                                        Started from a HTML/CSS Template. PHP/JS Development on Netbeans without Framework or CMS.</li>
-                                        <li>Changes on company WordPress websites</li>
-                                        <li>Creation of PHP/JS scripts to automate tasks of employees</li>
-                                        <li>Creation of a CRM server (vtiger on Debian)</li>
+                                            <li>Creation of a client&apos;website. 
+                                            Started from a HTML/CSS Template. PHP/JS Development on Netbeans without Framework or CMS.</li>
+                                            <li>Changes on company WordPress websites</li>
+                                            <li>Creation of PHP/JS scripts to automate tasks of employees</li>
+                                            <li>Creation of a CRM server (vtiger on Debian)</li>
                                         </ul>',
     //________________________Partie Compétences_______________________
     'web' => 'Web development (HTML, CSS, PHP)',
@@ -185,16 +188,16 @@ $interests = array(
     'title' => 'My hobbies',
     'IT' => '				<p><b>IT-Technologies-Multimedia:</b></p>
 							<ul class="listetexteg">
-							<li>Regular reading of news and articles</li>
-							<li>Autonomous learning</li>
+                                <li>Regular reading of news and articles</li>
+                                <li>Autonomous learning</li>
                                                         <li>Administration of a linux server (debian 8)</li>
 							</ul>',
     'health' => '							<p><b>Sport-Nutrition-health : </b></p>
 							<ul class="listetexteg">
-							<li>Weight training</li>
-							<li>Regular videos and reading of news and articles</li>
-							<li>Gym Supervisor for 2 year for the university (2015-2017)</li>
-							<li>Diploma of Civic Prevention and Emergency Level 1 (2016)</li>
+                                <li>Weight training</li>
+                                <li>Regular videos and reading of news and articles</li>
+                                <li>Gym Supervisor for 2 year for the university (2015-2017)</li>
+                                <li>Diploma of Civic Prevention and Emergency Level 1 (2016)</li>
 							</ul>',
     'sport' => 'Sport',
     'learning' => 'Learning',
