@@ -57,15 +57,16 @@ $company = array(
     'manorga' => 'Entreprise de production de rayonnages industriels',
     'decathlon' => 'Entreprise de distribution d&apos;articles de sport',
     'flint' => 'Entreprise de production d&apos;encres d&apos;emballages',
-);
+    'capgemini' => 'première entreprise de services du numérique (ESN) en France',
+    );
 
 $text = array(
     'position' => 'Elève <strong>ingénieur</strong> en <strong>informatique et réseaux/télécommunications</strong>',
-    'description' => 'Recherche un contrat de professionnalisationstage en développement Java. Début : 4 Septembre 2017.',
+    'description' => 'En alternance en tant que qu\'ingénieur logiciel chez Capgemini.',
     'download' => 'Une version imprimable (format PDF) de mon CV est disponible ici :',
     'downloadDoc' => 'https://drive.google.com/open?id=0B0ZaRt_BzwGuX3ozZVNjUHVIODA',
-    'bio' => 'Je suis actuellement étudiant en dernière année du cycle ingénieur (BAC +5) à l\'<strong><b>IMT Lille Douai (école issue de la fusion entre Télécom-Lille et IMT Lille Douai)</b></strong>. '
-        . 'Je débute mon contrat de professionnalisation chez Capgemini en tant qu\'ingénieur logiciel (Java) à la rentrée 2017.',
+    'bio' => 'Je suis actuellement étudiant en dernière année du cycle ingénieur (BAC +5) à l\'<strong><b>IMT Lille Douai (école issue de la fusion entre Télécom-Lille et Les Mines de Douai)</b></strong>. '
+        . 'Je suis également en alternance au sein de Capgemini en tant qu\'ingénieur logiciel (spécialisé en Java/JEE).',
 );
 
 
@@ -105,10 +106,10 @@ $education = array(
                                         <p>Actuellement en 3e année du cycle d&apos;ingénieur (BAC +5).
                                         <br>Les spécialités choisies :</p>
                                         <ul>
-                                            <li>Ingénierie du Logiciel (Développement avancé en Java)</li>
+                                            <li>Ingénierie du Logiciel (en Java)</li>
                                             <li>Conception d’Applications pour le Système d’Information</li>
-                                            <li>Ingénierie des Architectures Distribuées (Développement avancé en Java)</li>
-                                            <li>BIG Multimédia DATA (en Java)</li>
+                                            <li>Ingénierie des Architectures Distribuées (en Java)</li>
+                                            <li>BIG Multimédia DATA (en Java et Python)</li>
                                             <li>Management des Activités de Conseil et de Service</li>
                                         </ul>
                                         <p>Les autres enseignements :</p>

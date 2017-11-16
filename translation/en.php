@@ -56,15 +56,16 @@ $company = array(
     'manorga' => 'Company of industrial shelving production',
     'decathlon' => 'Sport items distribution',
     'flint' => 'Ink production company',
+    'Capgemini' => 'One of the greatest French multinational professional services and business consulting corporation',
 );
 
 $text = array(
     'position' => 'Network engineer, telecommunications and computer engineer',
     'description' => 'In an alternating contract in Java development at Capgemini.',
     'download' => 'You can download a printable version of my CV (PDF):',
-    'downloadDoc' => 'https://drive.google.com/open?id=0B0ZaRt_BzwGuNnpveXhMX05GOXc',
+    'downloadDoc' => 'https://drive.google.com/open?id=0B0ZaRt_BzwGuZ3RBNTZ1ZkpoN0k',
     'bio' => 'I am currently studying in the last year of engineering studies (BAC +5/the second last year) at IMT Lille Douai (School resulting from the merger between Télécom-Lille and Mines de Douai). '
-        . 'I start my alternating contract in Java development at Capgemini in September 2017',
+        . 'I have started my alternating contract for the job of software engineer',
 );
 
 

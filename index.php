@@ -431,6 +431,11 @@ if (empty($_COOKIE['lang'])) {
                     <div class="clients-carousel">
 
                         <div class="client-logo">
+                            <a href="http://capgemini.com" target="_blank"><img
+                                        src="img/logos/capgemini.png" title="<?php echo $company['capgemini']; ?>"
+                                        alt="Capgemini"/></a>
+                        </div>
+                        <div class="client-logo">
                             <a href="http://partenairepologne.com" target="_blank"><img
                                         src="img/logos/partenairepologne.png" title="<?php echo $company['partpol']; ?>"
                                         alt="Partenaire Pologne"/></a>
@@ -471,10 +476,10 @@ if (empty($_COOKIE['lang'])) {
                                 <div class="progress-bar">
                                     <div class="bar-data">
                                         <span class="bar-title"><?php echo $skills['dev']; ?></span>
-                                        <span class="bar-value">Good skills</span>
+                                        <span class="bar-value">Going to mastering</span>
                                     </div>
                                     <div class="bar-line">
-                                        <span class="bar-fill" data-width="60%"></span>
+                                        <span class="bar-fill" data-width="80%"></span>
                                     </div>
                                 </div>
                             </div>
@@ -483,10 +488,10 @@ if (empty($_COOKIE['lang'])) {
                                 <div class="progress-bar">
                                     <div class="bar-data">
                                         <span class="bar-title"><?php echo $skills['web']; ?></span>
-                                        <span class="bar-value">Going to mastering</span>
+                                        <span class="bar-value">Good skills</span>
                                     </div>
                                     <div class="bar-line">
-                                        <span class="bar-fill" data-width="77%"></span>
+                                        <span class="bar-fill" data-width="70%"></span>
                                     </div>
                                 </div>
                             </div>
@@ -509,10 +514,10 @@ if (empty($_COOKIE['lang'])) {
                                 <div class="progress-bar">
                                     <div class="bar-data">
                                         <span class="bar-title"><?php echo $skills['linux']; ?></span>
-                                        <span class="bar-value">Good skills</span>
+                                        <span class="bar-value">Going to mastering</span>
                                     </div>
                                     <div class="bar-line">
-                                        <span class="bar-fill" data-width="70%"></span>
+                                        <span class="bar-fill" data-width="80%"></span>
                                     </div>
                                 </div>
                             </div>
