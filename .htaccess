@@ -2,8 +2,6 @@
 ######################## Index ########################
 DirectoryIndex index.php 404.php
 
-
-
 ######################## Activation liens symboliques ########################
 Options +FollowSymLinks
 
