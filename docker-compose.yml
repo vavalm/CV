@@ -1,0 +1,14 @@
+version: "3.2"
+services:
+  web_cv:
+    image: apache-websrv
+    build:
+      context: ./
+      dockerfile: apache-php-Dockerfile
+    container_name: web_cv
+    ports:
+      - "8080:80"
+    volumes:
+      - ./:/var/www/html
+      - ./vhost.conf:/etc/apache2/sites-available/000-default.conf
+    restart: "always"
