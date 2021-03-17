@@ -1,20 +1,13 @@
-<!DOCTYPE html>
-
-<?php
-//    Implémentation des langues
-
+<?php  //    Implémentation des langues
 if (!empty($_COOKIE['lang']) && empty($currentLang) && empty($_GET['lang'])) { //Si on a changé la langue par le bouton alors nextLanguage prend cette nouvelle valeur
     $currentLang = $_COOKIE['lang'];
 }
-
 if (!empty($_GET['lang'])) { //Si on a changé la langue par le bouton alors nextLanguage prend cette nouvelle valeur
     $currentLang = $_GET['lang'];
 }
-
 if (!empty($_POST['nextLanguage'])) { //Si on a changé la langue par le bouton alors nextLanguage prend cette nouvelle valeur
     $currentLang = $_POST['nextLanguage'];
 }
-
 if (empty($currentLang) || $currentLang == "FRENCH") {
     $currentLang = "FRENCH";
     include_once 'translation/fr.php';
@@ -24,14 +17,11 @@ if (empty($currentLang) || $currentLang == "FRENCH") {
     $currentLang = "ENGLISH";
     include_once 'translation/en.php';
 }
-
 if (empty($_COOKIE['lang'])) {
     setcookie('lang', $currentLang, time() + 365 * 24 * 3600, null, null, false, true);
 } else {
-    $_COOKIE['lang'] = $currentLang;
-}
-?>
-
+    $_COOKIE['lang'] = $currentLang;}?>
+<!DOCTYPE html>
 <html lang="fr" class="theme-color-1a77d4 theme-skin-light">
 <head>
     <meta charset="utf-8">
@@ -92,8 +82,8 @@ if (empty($_COOKIE['lang'])) {
         (function (i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r;
             i[r] = i[r] || function () {
-                    (i[r].q = i[r].q || []).push(arguments)
-                }, i[r].l = 1 * new Date();
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
             a = s.createElement(o),
                 m = s.getElementsByTagName(o)[0];
             a.async = 1;
