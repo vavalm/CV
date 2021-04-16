@@ -1,0 +1,40 @@
+.listetexteg {
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    margin-left: 44px;
+}
+
+.listetextec {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin-left: 0px;
+    text-decoration: none;
+    list-style: none;
+}
+
+.justify {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.textegauche {
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+
+.textecenter {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+strong {
+    font-weight: inherit;
+}
+
+em {
+    font-style: normal;
+}

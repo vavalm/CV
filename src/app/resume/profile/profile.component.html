@@ -1,0 +1,77 @@
+<section id="about" class="section section-about">
+  <div class="animate-up">
+    <div class="section-box">
+      <div class="profile">
+        <div class="row">
+          <div class="col-xs-5">
+            <div class="profile-photo"><img src="../../../assets/img/valentinmaupin.jpg" alt="Valentin Maupin"/>
+            </div>
+          </div>
+          <div class="col-xs-7">
+            <div class="profile-info">
+              <div class="profile-preword"><span>{{languages.keywords['welcome']}}</span>
+              </div>
+              <h1 class="profile-title"><span>{{languages.keywords['iam']}}  </span>
+                <strong>{{languages.menu['name']}}</strong></h1>
+              <h2 class="profile-position">{{languages.text['position']}}</h2></div>
+            <ul class="profile-list">
+              <li class="clearfix">
+                <b class="title">{{languages.keywords['age']}}</b>
+                <span class="cont">24</span>
+              </li>
+              <li class="clearfix">
+                <b class="title">{{languages.keywords['address']}}</b>
+                <span class="cont">{{languages.contact['address']}}</span>
+              </li>
+              <li class="clearfix">
+                <b class="title">{{languages.keywords['email']}}</b>
+                <span class="cont"><a
+                  href="mailto:valentin@maupin.eu">{{languages.contact['email']}}</a></span>
+              </li>
+              <li class="clearfix">
+                <b class="title">{{languages.keywords['tel']}}</b>
+                <span class="cont"><a
+                  href="tel:+33662956844)">{{languages.contact['tel']}}</a></span>
+              </li>
+              <!--                                                 <li class="clearfix"> -->
+              <!--                                                     <strong class="title"><span class="button">On Vacation</span></strong> -->
+              <!--                                                     <span class="cont"><i class="icon icon-calendar"></i>till March 25, 2016</span> -->
+              <!--                                                 </li> -->
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="profile-social">
+        <ul class="social">
+          <li><font color="white"><b>{{languages.text['description'] }}</b></font></li>
+          <!-- 					<li><a class="ripple-centered" href="https://www.facebook.com/MaupinValentin/" target="_blank"><i class="rsicon rsicon-facebook"></i></a></li> -->
+          <!--<li><a class="ripple-centered" href="https://twitter.com/Valentin_Maupin" target="_blank"><i class="rsicon rsicon-twitter"></i></a></li>-->
+          <li><a class="ripple-centered"
+                 href="https://www.linkedin.com/in/valentin-maupin-13019b139/" target="_blank"><i
+            class="rsicon rsicon-linkedin"></i></a></li>
+          <!--<li><a class="ripple-centered" href="https://plus.google.com/u/0/+ValentinMaupin" target="_blank"><i class="rsicon rsicon-google-plus"></i></a></li>-->
+          <!-- 					<li><a class="ripple-centered" href="https://dribbble.com" target="_blank"><i class="rsicon rsicon-dribble"></i></a></li> -->
+          <!--<li><a class="ripple-centered" href="https://www.instagram.com/valentin_maupin/" target="_blank"><i class="rsicon rsicon-instagram"></i></a></li>-->
+        </ul>
+      </div>
+    </div>
+
+    <div class="section-txt-btn">
+      <p><b>{{languages.text['download']}}</b></p>
+      <a class="btn btn-border ripple" style="color: #1a77d4" target="_blank"
+         href="{{languages.text['downloadDoc']}}"><b>{{languages.keywords['download']}}</b></a>
+    </div>
+
+  </div>
+</section><!-- #about -->
+
+
+<!-- START: PAGE CONTENT -->
+<section id="text-section" class="section section-text">
+  <div class="animate-up animated">
+    <h2 class="section-title">{{languages.menu['description']}}</h2>
+    <div class="section-box">
+      <p class="justify" [innerHTML]="languages.text['bio']"></p>
+    </div>
+  </div>
+</section><!-- #about -->

@@ -1,0 +1,36 @@
+<section id="skills" class="section section-skills">
+  <div class="animate-up">
+    <h2 class="section-title">{{languages.menu['skills']}}</h2>
+    <div class="section-box">
+        <div class="row" *ngFor="let skill of languages.getSkillsCounter(); let i = index" >
+          <div class="col-sm-6" >
+            <div class="progress-bar">
+              <div class="bar-data">
+                <span class="bar-title">{{languages.skills[2*i][0]}}</span>
+                <span class="bar-value">{{languages.skills[2*i][2]}}</span>
+              </div>
+              <div class="bar-line">
+                <span class="bar-fill" [attr.data-width]="languages.skills[2*i][1]"></span>
+<!--                TODO: Mettre les % de manière dynamique-->
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col-sm-6">
+            <div class="progress-bar">
+              <div class="bar-data">
+                <span class="bar-title">{{languages.skills[2*i+1][0]}}</span>
+                <span class="bar-value">{{languages.skills[2*i+1][2]}}</span>
+              </div>
+              <div class="bar-line">
+                <span class="bar-fill" [attr.data-width]="languages.skills[2*i+1][1]"></span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+    </div>
+  </div>
+</section><!-- #skills -->

@@ -1,0 +1,72 @@
+<section id="contact" class="section section-contact">
+  <div class="animate-up">
+    <h2 class="section-title">{{languages.menu['contact']}}</h2>
+
+    <div class="row">
+      <div class="col-sm-6">
+        <div class="section-box contact-form">
+          <h3>{{languages.getContact['title']}}</h3>
+
+          <form class="contactForm" action="recaptcha.php" method="post" data-captcha="true">
+            <div class="input-field">
+              <input class="contact-name" type="text" name="name"
+                     title="Enter your family name and your first name"/>
+              <span class="line"></span>
+              <label>{{languages.keywords['name']}}</label>
+            </div>
+
+            <div class="input-field">
+              <input class="contact-email" type="email" name="email"
+                     title="Entrer your email address"/>
+              <span class="line"></span>
+              <label>{{languages.keywords['email']}}</label>
+            </div>
+
+            <div class="input-field">
+              <input class="contact-subject" type="text" name="subject"
+                     title="Enter the subject of your message"/>
+              <span class="line"></span>
+              <label>{{languages.keywords['subject']}}</label>
+            </div>
+
+            <div class="input-field">
+                                        <textarea class="contact-message" rows="4" name="message"
+                                                  title="Enter your message to send to Valentin"></textarea>
+              <span class="line"></span>
+              <label>{{languages.keywords['message']}}</label>
+            </div>
+
+            <span class="btn-outer btn-primary-outer ripple">
+                                                <input class="contact-submit btn btn-lg btn-primary" type="submit"
+                                                       value="Send"/>
+                                            </span>
+            <div class="contact-response"></div>
+          </form>
+        </div>
+      </div>
+
+      <div class="col-sm-6">
+        <div class="section-box contact-info has-map">
+          <ul class="contact-list">
+            <li class="clearfix">
+              <strong>{{languages.keywords['address']}}</strong>
+              <span>{{languages.getContact['address']}}</span>
+            </li>
+            <li class="clearfix">
+              <strong>{{languages.keywords['tel']}}</strong>
+              <span><a href="tel:+33662956844">{{languages.getContact['tel']}}</a></span>
+            </li>
+            <li class="clearfix">
+              <strong>{{languages.keywords['email']}}</strong>
+              <span><a href="mailto:valentin@maupin.eu">{{languages.getContact['email']}}</a></span>
+            </li>
+          </ul>
+          <div id="map" data-latitude="50.611281" data-longitude="3.138174"></div>
+          <script async defer
+                  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAAhyTuD0ARwLChofsFVh7FDtzuSFYY4WU&callback=initMap">
+          </script>
+        </div>
+      </div>
+    </div>
+  </div>
+</section><!-- #contact -->
