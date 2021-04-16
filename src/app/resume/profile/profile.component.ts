@@ -1,15 +1,5 @@
-import {Component, NgModule, OnInit} from '@angular/core';
+import {Component, OnInit} from '@angular/core';
 import {LanguagesService} from '../../services/languages.service';
-import {AppComponent} from '../../app.component';
-import {HeaderComponent} from '../../header/header.component';
-import {GoogleAnalyticsComponent} from '../../google-analytics/google-analytics.component';
-import {ContactComponent} from '../../contact/contact.component';
-import {FooterComponent} from '../../footer/footer.component';
-import {SkillsComponent} from '../skills/skills.component';
-import {NotFoundComponent} from '../../not-found/not-found.component';
-import {SidebarComponent} from '../../sidebar/sidebar.component';
-import {LegalNoticeComponent} from '../../legal-notice/legal-notice.component';
-import {ResumeComponent} from '../resume.component';
 
 @Component({
   selector: 'app-profile',
@@ -17,10 +7,17 @@ import {ResumeComponent} from '../resume.component';
   styleUrls: ['./profile.component.css']
 })
 export class ProfileComponent implements OnInit {
+  public age: number;
 
   constructor(public languages: LanguagesService) { }
 
   ngOnInit(): void {
+    this.calculateAge();
+  }
+
+  public calculateAge(): void{
+    let diffMiliSec = Date.now() - Date.parse("1995-12-18");
+    this.age = Math.floor(diffMiliSec / 1000 / 60 / 60 / 24 / 365)
   }
 
 }
