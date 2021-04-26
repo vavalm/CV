@@ -7,10 +7,10 @@ export class LanguagesService {
   title = 'CV - Valentin Maupin';
 
   tag = {
-    meta_description: '<meta name="description" content="Valentin Maupin est un élève ingénieur en informatique et réseaux/télécommunications à IMT Lille Douai. Découvrez son CV." />',
-    og_title: '<meta property="og:title" content="CV de Valentin Maupin - élève ingénieur à IMT Lille Douai" />',
+    meta_description: '<meta name="description" content="Valentin Maupin est un ingénieur en informatique spécialisé en Data et en développement. Découvrez son CV." />',
+    og_title: '<meta property="og:title" content="CV de Valentin Maupin - ingénieur data & dév" />',
     og_lang: '<meta property="og:locale" content="fr" />',
-    og_description: '<meta property="og:udescription" content="Valentin Maupin est un élève ingénieur en informatique et réseaux/télécommunications à IMT Lille Douai. Découvrez son CV." />',
+    og_description: '<meta property="og:udescription" content="Valentin Maupin est un ingénieur en informatique spécialisé en Data et en développement. Découvrez son CV." />',
   };
 
   menu = {
@@ -63,29 +63,29 @@ export class LanguagesService {
 
   text = {
     position: 'Data Scientist & Développeur Web',
-    description: 'Freelance Data Scientist (orienté ML Engineer) & Développeur Web (Java, Angular). En cours de formation Angular.',
+    description: 'Ingénieur en Data et en développement Web',
     download: 'Une version imprimable (format PDF) de mon CV est disponible ici :',
     downloadDoc: 'https://drive.google.com/file/d/1-OSggK5hBkGvFO3IwoolCUjIEreHBVvA/view?usp=sharing',
-    bio: 'Après plus de 3 ans d\'expérience autour développement Web et du Big Data sur des projets d\'envergure, je propose désormais mes services en freelance.<br>' +
+    bio: 'Après plus de 3 ans d\'expérience autour développement Web et de la Data sur des projets d\'envergure, ' +
+        'je suis désormais en poste chez Devoteam Revolve afin d\'acquérir des compétences cloud.<br>' +
       '<br>' +
-      'Muni d\'un diplôme d\'ingénieur en informatique ainsi que d\'un Mastère Spécialisé en Data Science, je souhaite vous accompagner sur votre réussite dans les missions suivantes :<br>' +
+      'Muni d\'un diplôme d\'ingénieur en informatique ainsi que d\'un Mastère Spécialisé en Data Science, ' +
+        'je suis capable de travailler sur les tâches suivantes :<br>' +
       '<br>' +
-      '● Data<br>' +
-      '- Nettoyage/Préparation de données<br>' +
-      '- Analyse de données<br>' +
-      '- Mise en place d\'un modèle de Machine Learning<br>' +
-      '<br>' +
+      '<ul><b>Data :</b></ul>' +
+      '<li>Nettoyage/Préparation de données</li>' +
+      '<li>Analyse de données</li>' +
+      '<li>Mise en place d\'un modèle de Machine Learning</li><br>' +
       'Technologies de prédilection : Python, Tensorflow/Pytorch, Spark<br>' +
       '<br>' +
-      '● Développement <br>' +
-      '- Développement Back-End (Java)<br>' +
-      '- Développement Front-End (Angular, HTML/CSS, JavaScript/TypeScript)<br>' +
-      '- Développement de scripts serveurs (Python)<br>' +
+      '<ul><b>Développement :</b></ul>' +
+      '<li>Développement Back-End (Java)</li>' +
+      '<li>Développement Front-End (Angular, HTML/CSS, JavaScript/TypeScript)</li>' +
+      '<li>Développement de scripts serveurs (Python)</li><br>' +
+      'Actuellement localisé à Lyon, je vais passer prochainement sur la région Toulousaine.<br>' +
+      'Particulièrement soucieux de la qualité du code et de la pérennisation de ma production, je priorise les projets qui vont dans ce sens. <br>' +
       '<br>' +
-      'Je suis localisé à Lyon mais j\'ai la possibilité de me déplacer ponctuellement en dehors.<br>' +
-      'Particulièrement soucieux de la qualité du code et de la pérennisation de ma production, je priorise les clients qui vont dans ce sens. <br>' +
-      '<br>' +
-      'Au plaisir de travailler avec vous, n\'hésitez pas à me contacter pour discuter de votre projet.',
+      'Au plaisir de travailler avec vous, n\'hésitez pas à me contacter.',
   };
 
 
@@ -132,7 +132,93 @@ export class LanguagesService {
         'Management des Activités de Conseil et de Service'
       ],
       conclusion: '+ Autres enseignements obligatoires (Anglais, Réseau, Signal, Electronique, Marketing, Communication, Comptabilité, Finances...'
+    },
+
+    {
+      dates: '2019-2020',
+      title: 'Mastère Spécialisé',
+      school: 'INSA Toulouse + ENSEEIHT (31200)',
+      intro: 'Formation complémentaire d\'une année en Data Science en alternance avec le groupe Capgemini.' +
+          'Cette formation a eu pour but de m\'apporter des compétences complémentaires en Data.',
+      bulletPoints: [
+        'Traitement de données : nettoyage de données, imputation de données manquantes, préparation et analyse de données',
+        'Machine Learning : apprentissage statistique, apprentissage automatique, méthodes ensemblistes, Deep Learning (MLP, CNN, autoencodeurs, GAN, ...)',
+        'Infrastructures système et réseau virtualisés pour le Big Data : virtualisation système & réseaux (OpenStack, hyperviseur type 1&2, Docker), Cloud (AWS/GCP), …',
+        'Stockage et traitement distribué : NoSQL (types de bdd, Neo4j, MongoDb), Hadoop, Spark + Spark Streaming, architecture micro-services (API + Docker)…'
+      ],
+      conclusion: '+ Autres enseignements : algorithmes d\'optimisation'
     }
+  ];
+
+  experiences = [
+    {
+      dates: '2016-2017 : Août-Janvier',
+      title: 'Stage informatique chez Partenaire Pologne',
+      companyDesc: 'Cabinet de conseil spécialisée dans le développement international.',
+      intro: 'Développement web :',
+      bulletPoints: [
+        'Création d\'un site internet pour un client (HTML, CSS, PHP, JavaScript)',
+        'Modification des sites WordPress de l\'entreprise',
+        'Création de scripts et macro PHP, JS (JQuery), imacro pour automatiser les tâches des employés',
+          'Création d\'un serveur CRM vtiger sur un serveur Debian',
+      ],
+      conclusion: ''
+    },
+    {
+      dates: '2016 : Février-Mai',
+      title: 'Stage Marketing chez EReputationDefender',
+      companyDesc: 'Startup spécialisée dans la gestion de l\'e-réputation, le Community Management et la formation en\n' +
+          '            Social Media',
+      intro: 'Compréhension de l\'importance du marketing en entreprise :',
+      bulletPoints: [
+        'Analyse marketing de la structure d\'accueil',
+        'Analyse de la communication interne et externe',
+        'Création et animation des pages professionnelles sur les réseaux sociaux (Facebook, linked-in,\n' +
+        '              Twitter, ...)',
+          'Réalisation d\'un flyer et du site internet'
+      ],
+      conclusion: ''
+    },
+
+    {
+      dates: '2015 : Avril-Juin',
+      title: 'Stage réseaux informatiques chez Manorga',
+      companyDesc: 'Manorga est une moyenne entreprise spécialisée dans la fabrication\n' +
+          '            de rayonnages industriels',
+      intro: 'Découverte des réseaux informatiques en entreprise à travers les missions suivantes :',
+      bulletPoints: [
+        'Compréhension & analyse du réseaux informatique',
+        'Création d\'un serveur Redmine (Appli de gestion de projets) sous Linux (Debian 7)',
+        'Migration de domaines des postes clients pour une migration Active Directory',
+        'Migration des postes de Postfix & Thunderbird vers Microsoft & Outlook',
+        'Analyse du fonctionnement du VPN MPLS'
+      ],
+      conclusion: ''
+    },
+
+    // {
+    //   dates: 'Eté 2014 et 2015',
+    //   title: 'Travail saisonnier chez Flint Group',
+    //   companyDesc: 'Une des plus grandes entreprises de production d\'encres d\'emballages au monde',
+    //   intro: 'Chargement de machines de production dans un environnement chimique classé SEVESO',
+    //   bulletPoints: [],
+    //   conclusion: ''
+    // },
+
+    {
+      dates: '2014 : Février-Mars',
+      title: 'Stage découverte du monde professionnel chez Décathlon',
+      companyDesc: 'Décathlon est une entreprise internationale de distribution d\'articles de sport',
+      intro: 'Découverte du monde de lèntreprise et plus particulièrement celui des retailers à travers les missions suivantes :',
+      bulletPoints: [
+        'Conseil et renseignements aux clients',
+        'Réalisation de l\'inventaire des stocks',
+        'Prise en charge des commandes clients',
+        'Hôte de caisse et hôte d\'accueil du magasin'
+      ],
+      conclusion: ''
+    },
+
   ];
 
   skills = [
@@ -164,8 +250,8 @@ export class LanguagesService {
   contact = {
     title: 'N\'hésitez pas à me contacter',
     name: 'Maupin',
-    position: 'El&#232;ve ingénieur en réseaux et télécommunications',
-    address: 'Rue de Saint-Cyr, 69009 Lyon',
+    position: 'Ingénieur en Data et en développement Web',
+    address: 'Boulevard du 11 novembre 1918, 69100 Villeurbanne',
     tel: '06 62 95 68 44',
     email: 'valentin@maupin.eu',
     copy: '© 2016 - Tous droits réservés',

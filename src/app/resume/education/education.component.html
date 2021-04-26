@@ -5,11 +5,13 @@
       <div class="timeline-bar"></div>
       <div class="timeline-inner clearfix">
         <div *ngFor="let ed of languages.education; let i = index">
-
-          <div class="timeline-box timeline-box-compact timeline-box-left" *ngIf="i%2==1">
+          <div class="timeline-box timeline-box-compact" [ngClass]="{
+                'timeline-box-left': i%2==0,
+                'timeline-box-right': i%2==1}">
             <span class="dot"></span>
-
-            <div class="timeline-box-inner animate-right">
+            <div class="timeline-box-inner" [ngClass]="{
+                'animate-right': i%2==0,
+                'animate-left': i%2==1}">
               <span class="arrow"></span>
               <div class="date"><span [innerHTML]="ed.dates"></span></div>
               <h3 [innerHTML]="ed.title"></h3>
@@ -21,43 +23,6 @@
               <p [innerHTML]="ed.conclusion"></p>
             </div>
           </div>
-
-          <div class="timeline-box timeline-box-compact timeline-box-right" *ngIf="i%2==0">
-            <span class="dot"></span>
-
-            <div class="timeline-box-inner animate-left">
-              <span class="arrow"></span>
-              <div class="date"><span [innerHTML]="ed.dates"></span></div>
-              <h3 [innerHTML]="ed.title"></h3>
-              <h4 [innerHTML]="ed.school"></h4>
-              <p [innerHTML]="ed.intro">
-              <ul *ngIf="ed.bulletPoints.length > 0">
-                <li *ngFor="let bp of ed.bulletPoints" [innerHTML]="bp"></li>
-              </ul>
-              <p [innerHTML]="ed.conclusion"></p>
-            </div>
-          </div>
-
-<!--          <div [ngClass]="{'timeline-box timeline-box-compact timeline-box-right': i%2==0,-->
-<!--                'timeline-box timeline-box-compact timeline-box-left': i%2>0-->
-<!--                }">-->
-<!--            <span class="dot"></span>-->
-
-<!--            <div [ngClass]="{'timeline-box-inner animate-left': i%2==0,-->
-<!--                'timeline-box-inner animate-right': i%2>0-->
-<!--                }"> {{i%2}}-->
-<!--              <span class="arrow"></span>-->
-<!--              <div class="date"><span [innerHTML]="ed.dates"></span></div>-->
-<!--              <h3 [innerHTML]="ed.title"></h3>-->
-<!--              <h4 [innerHTML]="ed.school"></h4>-->
-<!--              <p [innerHTML]="ed.intro">-->
-<!--              <ul *ngIf="ed.bulletPoints.length > 0">-->
-<!--                <li *ngFor="let bp of ed.bulletPoints" [innerHTML]="bp"></li>-->
-<!--              </ul>-->
-<!--              <p [innerHTML]="ed.conclusion"></p>-->
-<!--            </div>-->
-<!--          </div>-->
-
         </div>
       </div>
     </div>
