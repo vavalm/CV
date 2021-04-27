@@ -4,8 +4,6 @@ import {Injectable} from '@angular/core';
     providedIn: 'root'
 })
 export class LanguagesService {
-    title = 'CV - Valentin Maupin';
-
     tag = {
         meta_description: '<meta name="description" content="Valentin Maupin est un ingénieur en informatique spécialisé en Data et en développement. Découvrez son CV." />',
         og_title: '<meta property="og:title" content="CV de Valentin Maupin - ingénieur data & dév" />',
