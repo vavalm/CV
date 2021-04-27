@@ -429,22 +429,46 @@ export class LanguagesService {
         ['Analyse et compréhension', '75%', '★★★★☆']
     ];
 
-    interests = {
-        title: 'Mes centres d\'interêt',
-        IT: '				',
-        health: '							',
-        sport: 'Sport',
-        learning: 'Apprentissage',
-        technologies: 'Technologies',
-    };
+    interests = [
+        {
+            fullName: 'Sport-Nutrition-Santé :',
+            shortName: 'Sport',
+            beforeBulletPoints: '',
+            bulletPoints: [
+                'Pratique de la musculation et autres activités d\'endurance',
+                'Lecture régulière d\'articles et de revues sur la nutrition',
+                'Surveillant d\'une salle de sport étudiante durant de 2015 à 2017',
+                'Diplômé secouriste (PSC1)'
+            ],
+        },
+        {
+            fullName: 'Informatique-Technologies-Multimédia :',
+            shortName: 'Apprentissage',
+            beforeBulletPoints: '',
+            bulletPoints: [
+                'Lecture journalière des actualités',
+                'Apprentissage régulier en autonomie de logiciels, langages/frameworks de développement, outils, ...'
+            ],
+        }
+    ];
 
-    qualities = {
-        adaptability: 'Polyvalent',
-        rigor: 'Rigoureux',
-        openminded: 'Ouvert d\'esprit',
-        autonomous: 'Autonome',
-        organisation: 'Organisé',
-    };
+    interestsIcon = [
+        {
+            className: 'map-icon-university',
+            text: 'Apprentissage'
+        },
+        {
+            className: 'map-icon-gym',
+            text: 'Sport'
+        },
+        {
+            className: 'map-icon-electronics-store',
+            text: 'Technologie'
+        },
+    ]
+
+    qualities = ['Polyvalent','Rigoureux','Ouvert d\'esprit',
+    'Autonome','Organisé'];
 
     contact = {
         title: 'N\'hésitez pas à me contacter',

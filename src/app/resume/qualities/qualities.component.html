@@ -1,18 +1,18 @@
 <section id="qualities" class="section section-skills">
   <div class="animate-up">
     <h2 class="section-title">{{languages.menu['qualities']}}</h2>
-    <div class="section-box">
-      <div class="row">
+    <div class="section-box" *ngIf="languages.qualities.length > 0">
+      <div class="row" *ngFor="let i of utils.range(0, languages.qualities.length, 4);">
         <div class="col-sm-6">
           <ul class="listetexteg">
-            <li>{{languages.qualities['adaptability']}}</li>
-            <li>{{languages.qualities['rigor']}}</li>
+            <li *ngIf="languages.qualities[i]">{{languages.qualities[i]}}</li>
+            <li *ngIf="languages.qualities[i+1]">{{languages.qualities[i+1]}}</li>
           </ul>
         </div>
         <div class="col-sm-6">
           <ul class="listetexteg">
-            <li>{{languages.qualities['openminded']}}</li>
-            <li>{{languages.qualities['autonomous']}}</li>
+            <li *ngIf="languages.qualities[i+2]">{{languages.qualities[i+2]}}</li>
+            <li *ngIf="languages.qualities[i+3]">{{languages.qualities[i+3]}}</li>
           </ul>
         </div>
       </div>

@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import {LanguagesService} from '../../services/languages.service';
+import {UtilsService} from "../../services/utils.service";
 
 @Component({
   selector: 'app-qualities',
@@ -8,7 +9,8 @@ import {LanguagesService} from '../../services/languages.service';
 })
 export class QualitiesComponent implements OnInit {
 
-  constructor(public languages: LanguagesService) { }
+  constructor(public languages: LanguagesService,
+              public utils: UtilsService) { }
 
   ngOnInit(): void {
   }

@@ -1,42 +1,27 @@
 <section id="interests" class="section section-interests">
   <div class="animate-up">
-    <h2 class="section-title" id="hobbies">{{languages.interests['title']}}</h2>
+    <h2 class="section-title" id="hobbies">Hobbies</h2>
     <div class="section-box">
-      <div class="row">
-        <div class="col-sm-6">
-          <!--                {{languages.interests['IT']}}-->
-          <p><b>Informatique-Technologies-Multimédia :</b></p>
+      <div class="row"
+           *ngFor="let i of utils.range(0, languages.interests.length, 2)">
+        <div class="col-sm-6" *ngIf="languages.interests[i]">
+          <p><b>{{languages.interests[i].fullName}}</b></p>
           <ul class="listetexteg">
-            <li>Lecture journalière des actualités</li>
-            <li>Apprentissage autonome de technologies, logiciels, langages de développement, ...
-              Grâce à des tutoriaux sur internet (Openclassrooms.com)
-            </li>
+            <li *ngFor="let bp of languages.interests[i].bulletPoints" [innerHTML]="bp"></li>
           </ul>
         </div>
-        <div class="col-sm-6">
-          <!--                {{languages.interests['health']}}-->
-          <p><b>Sport-Nutrition-Santé : </b></p>
+        <div class="col-sm-6" *ngIf="languages.interests[i+1]">
+          <p><b>{{languages.interests[i+1].fullName}}</b></p>
           <ul class="listetexteg">
-            <li>Pratique de la musculation et autres activités d'endurance</li>
-            <li>Lecture régulière d'articles et de revues sur la nutrition</li>
-            <li>Surveillant d'une salle de sport étudiante durant de 2015 à 2017</li>
-            <li>Diplômé secouriste (PSC1)</li>
+            <li *ngFor="let bp of languages.interests[i+1].bulletPoints" [innerHTML]="bp"></li>
           </ul>
         </div>
       </div>
       <br>
-      <ul class="interests-list">
-        <li>
-          <i class="map-icon map-icon-gym"></i>
-          <span>{{languages.interests['sport']}}</span>
-        </li>
-        <li>
-          <i class="map-icon map-icon-university"></i>
-          <span>{{languages.interests['learning']}}</span>
-        </li>
-        <li>
-          <i class="map-icon map-icon-electronics-store"></i>
-          <span>{{languages.interests['technologies']}}</span>
+      <ul class="interests-list" *ngIf="languages.interestsIcon.length > 0">
+        <li *ngFor="let icon of languages.interestsIcon">
+          <i class="map-icon {{icon.className}}"></i>
+          <span [innerHTML]="icon.text"></span>
         </li>
       </ul>
     </div>
