@@ -421,12 +421,41 @@ export class LanguagesService {
     ];
 
     skills = [
-        ['Développement Java/JEE', '70%', '★★★☆☆'],
-        ['Python', '60%', '★★★☆☆'],
-        ['Linux (Debian, Ubuntu)', '80%', '★★★★☆'],
-        ['Data Science/Machine Learning', '65%', '★★★☆☆'],
-        ['Angular', '50%', '★★☆☆☆'],
-        ['Analyse et compréhension', '75%', '★★★★☆']
+        {
+            name: 'Java/JEE',
+            rate: '70%',
+            stars: '★★★☆☆'
+        },
+        {
+            name: 'Python',
+            rate: '75%',
+            stars: '★★★☆☆'
+        },
+        {
+            name: 'Data Science/Machine Learning',
+            rate: '65%',
+            stars: '★★★☆☆'
+        },
+        {
+            name: 'Linux (Debian, Ubuntu)',
+            rate: '80%',
+            stars: '★★★★☆'
+        },
+        {
+            name: 'Angular',
+            rate: '50%',
+            stars: '★★☆☆☆'
+        },
+        {
+            name: 'Analyse et compréhension',
+            rate: '75%',
+            stars: '★★★★☆'
+        },
+        {
+            name: 'AWS',
+            rate: '60%',
+            stars: '★★★☆☆'
+        },
     ];
 
     interests = [
@@ -483,14 +512,5 @@ export class LanguagesService {
     };
 
     constructor() {
-    }
-
-    getContact(): {} {
-        return this.contact;
-    }
-
-    getSkillsCounter(): any[] {
-        const size = Math.ceil(this.skills.length / 2);
-        return new Array(size);
     }
 }

@@ -1,33 +1,33 @@
 <section id="skills" class="section section-skills">
   <div class="animate-up">
     <h2 class="section-title">{{languages.menu['skills']}}</h2>
-    <div class="section-box">
-        <div class="row" *ngFor="let skill of languages.getSkillsCounter(); let i = index" >
+    <div class="section-box" *ngIf="languages.skills.length > 0">
+        <div class="row" *ngFor="let i of utils.range(0, languages.skills.length, 2);" >
           <div class="col-sm-6" >
             <div class="progress-bar">
               <div class="bar-data">
-                <span class="bar-title">{{languages.skills[2*i][0]}}</span>
-                <span class="bar-value">{{languages.skills[2*i][2]}}</span>
+                <span class="bar-title">{{languages.skills[i].name}}</span>
+                <span class="bar-value">{{languages.skills[i].stars}}</span>
               </div>
               <div class="bar-line">
-                <span class="bar-fill" [attr.data-width]="languages.skills[2*i][1]"></span>
-<!--                TODO: Mettre les % de manière dynamique-->
+                <span class="bar-fill" [attr.data-width]="languages.skills[i].rate"></span>
               </div>
             </div>
           </div>
 
 
-          <div class="col-sm-6">
+          <div class="col-sm-6" *ngIf="languages.skills[i+1]" >
             <div class="progress-bar">
               <div class="bar-data">
-                <span class="bar-title">{{languages.skills[2*i+1][0]}}</span>
-                <span class="bar-value">{{languages.skills[2*i+1][2]}}</span>
+                <span class="bar-title">{{languages.skills[i+1].name}}</span>
+                <span class="bar-value">{{languages.skills[i+1].stars}}</span>
               </div>
               <div class="bar-line">
-                <span class="bar-fill" [attr.data-width]="languages.skills[2*i+1][1]"></span>
+                <span class="bar-fill" [attr.data-width]="languages.skills[i+1].rate"></span>
               </div>
             </div>
           </div>
+
         </div>
 
 
