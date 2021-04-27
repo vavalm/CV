@@ -13,10 +13,11 @@
                 'animate-right': i%2==0,
                 'animate-left': i%2==1}">
               <span class="arrow"></span>
-              <div class="date"><span [innerHTML]="ed.dates"></span></div>
+              <div class="date"><span [innerHTML]="ed.startDate +' – ' + ed.endDate"></span></div>
               <h3 [innerHTML]="ed.title"></h3>
               <h4 [innerHTML]="ed.school"></h4>
-              <p [innerHTML]="ed.intro">
+              <p [innerHTML]="ed.context">
+              <p *ngIf="ed.prevBulletPoints" [innerHTML]="ed.prevBulletPoints">
               <ul *ngIf="ed.bulletPoints.length > 0">
                 <li *ngFor="let bp of ed.bulletPoints" [innerHTML]="bp"></li>
               </ul>
