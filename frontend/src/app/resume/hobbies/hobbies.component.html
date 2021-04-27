@@ -1,0 +1,29 @@
+<section id="interests" class="section section-interests">
+  <div class="animate-up">
+    <h2 class="section-title" id="hobbies">Hobbies</h2>
+    <div class="section-box">
+      <div class="row"
+           *ngFor="let i of utils.range(0, languages.interests.length, 2)">
+        <div class="col-sm-6" *ngIf="languages.interests[i]">
+          <p><b>{{languages.interests[i].fullName}}</b></p>
+          <ul class="listetexteg">
+            <li *ngFor="let bp of languages.interests[i].bulletPoints" [innerHTML]="bp"></li>
+          </ul>
+        </div>
+        <div class="col-sm-6" *ngIf="languages.interests[i+1]">
+          <p><b>{{languages.interests[i+1].fullName}}</b></p>
+          <ul class="listetexteg">
+            <li *ngFor="let bp of languages.interests[i+1].bulletPoints" [innerHTML]="bp"></li>
+          </ul>
+        </div>
+      </div>
+      <br>
+      <ul class="interests-list" *ngIf="languages.interestsIcon.length > 0">
+        <li *ngFor="let icon of languages.interestsIcon">
+          <i class="map-icon {{icon.className}}"></i>
+          <span [innerHTML]="icon.text"></span>
+        </li>
+      </ul>
+    </div>
+  </div>
+</section>

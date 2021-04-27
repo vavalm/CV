@@ -1,0 +1,74 @@
+<section class="sidebar sidebar-fixed">
+  <button class="btn-sidebar btn-sidebar-close"><i class="rsicon rsicon-close"></i></button>
+
+  <div class="widget-area">
+    <aside class="widget widget-profile">
+      <div class="profile-photo">
+        <img src="../../assets/img/valentinmaupin.jpg" alt="{{languages.menu['name']}}"/>
+      </div>
+      <div class="profile-info">
+        <h2 class="profile-title">{{languages.menu['name']}}</h2>
+        <h3 class="profile-position">{{languages.text['position']}}</h3>
+      </div>
+    </aside><!-- .widget-profile -->
+
+    <aside class="widget widget_search">
+      <h2 class="widget-title">{{languages.keywords['search']}}</h2>
+      <form class="search-form">
+        <label class="ripple">
+          <span class="screen-reader-text">{{languages.keywords['search']}} :</span>
+          <input class="search-field" type="search" placeholder="{{languages.keywords['search']}}">
+        </label>
+        <input type="submit" class="search-submit" value="{{languages.keywords['search']}}">
+      </form>
+    </aside><!-- .widget_search -->
+
+    <aside class="widget widget_contact">
+      <h2 class="widget-title">Contact</h2>
+      <form class="contactForm" action="recaptcha.php" method="post" data-captcha="true">
+        <div class="input-field">
+          <input class="contact-name" type="text" name="name"/>
+          <span class="line"></span>
+          <label>{{languages.keywords['name']}}</label>
+        </div>
+
+        <div class="input-field">
+          <input class="contact-email" type="email" name="email"/>
+          <span class="line"></span>
+          <label>{{languages.keywords['email']}}</label>
+        </div>
+
+        <div class="input-field">
+          <input class="contact-subject" type="text" name="subject"/>
+          <span class="line"></span>
+          <label>{{languages.keywords['subject']}}</label>
+        </div>
+
+        <div class="input-field">
+          <textarea class="contact-message" rows="4" name="message"></textarea>
+          <span class="line"></span>
+          <label>{{languages.keywords['message']}}</label>
+        </div>
+
+        <span class="btn-outer btn-primary-outer ripple">
+                            <input class="contact-submit btn btn-lg btn-primary" type="submit" value="Envoyer"/>
+                        </span>
+
+        <div class="contact-response"></div>
+      </form>
+    </aside><!-- .widget_contact -->
+
+
+    <aside class="widget widget_tag_cloud">
+      <h2 class="widget-title">{{languages.keywords['keywords']}}</h2>
+      <div class="tagcloud">
+        <a href="" title="1 topic">{{languages.keywords['it']}}</a>
+        <a href="" title="9 topics">{{languages.keywords['programming']}}</a>
+        <a href="" title="10 topics">{{languages.keywords['linux']}}</a>
+        <a href="" title="6 topics">{{languages.keywords['sport']}}</a>
+      </div>
+    </aside><!-- .widget_tag_cloud -->
+
+
+  </div><!-- .widget-area -->
+</section><!-- .sidebar -->
