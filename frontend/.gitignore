@@ -587,71 +587,6 @@ dwsync.xml
 dw_php_codehinting.config
 *.mno
 
-### Images template
-# JPEG
-*.jpg
-*.jpeg
-*.jpe
-*.jif
-*.jfif
-*.jfi
-
-# JPEG 2000
-*.jp2
-*.j2k
-*.jpf
-*.jpx
-*.jpm
-*.mj2
-
-# JPEG XR
-*.jxr
-*.hdp
-*.wdp
-
-# Graphics Interchange Format
-*.gif
-
-# RAW
-*.raw
-
-# Web P
-*.webp
-
-# Portable Network Graphics
-*.png
-
-# Animated Portable Network Graphics
-*.apng
-
-# Multiple-image Network Graphics
-*.mng
-
-# Tagged Image File Format
-*.tiff
-*.tif
-
-# Scalable Vector Graphics
-*.svg
-*.svgz
-
-# Portable Document Format
-*.pdf
-
-# X BitMap
-*.xbm
-
-# BMP
-*.bmp
-*.dib
-
-# ICO
-*.ico
-
-# 3D Images
-*.3dm
-*.max
-
 ### Xcode template
 # Xcode
 #
@@ -1062,20 +997,6 @@ cwallet.sso.lck
 *.smcl
 *.stpr
 *.stsem
-
-# Graphic export files from Stata
-# Stata command graph export: http://www.stata.com/manuals14/g-2graphexport.pdf
-#
-# You may add graphic export files to your .gitignore. However you should be
-# aware that this will exclude all image files from this main directory
-# and subdirectories.
-# *.ps
-# *.eps
-# *.wmf
-# *.emf
-# *.pdf
-# *.png
-# *.tif
 
 .DS_STORE
 

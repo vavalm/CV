@@ -1,0 +1,82 @@
+<app-header></app-header>
+
+<body class="home header-has-img loading">
+
+<div class="mobile-nav">
+  <button class="btn-mobile mobile-nav-close"><i class="rsicon rsicon-close"></i></button>
+
+  <div class="mobile-nav-inner">
+    <nav id="mobile-nav" class="nav">
+      <ul class="clearfix">
+        <li><a href="#about">{{languages.menu['description']}}</a></li>
+        <li><a href="#education">{{languages.menu['education']}}</a></li>
+        <li><a href="#experience">{{languages.menu['profExp']}}</a></li>
+        <li><a href="#skills">{{languages.menu['skills']}}</a></li>
+        <li><a href="#qualities">{{languages.menu['qualities']}}</a></li>
+        <li><a href="#hobbies">{{languages.menu['hobbies']}}</a></li>
+        <li><a href="#contact">{{languages.menu['contact']}}<span></span></a></li>
+      </ul>
+    </nav>
+  </div>
+</div><!-- .mobile-nav -->
+<!--TODO: faire une gestion de langue : faire un tableau dans les dictionnaires et gérer un index par le choix de l'utilisateur-->
+<!--TODO: Faire l'API google maps + google analytics-->
+<!--TODO: faire fonctionner le formulaire de contact-->
+<app-sidebar></app-sidebar>
+
+<div class="wrapper">
+  <header class="header">
+    <div class="head-bg" style="background-image: url('../assets/img/computer.jpg')"></div>
+
+    <div class="head-bar">
+      <div class="head-bar-inner">
+        <div class="row">
+          <div class="col-sm-3 col-xs-6">
+            <form action="" method="post" name="formChangeLang" id="formChangeLang">
+              <a class="logo" href="#">ENGLISH
+              </a>
+            </form>
+          </div>
+
+          <div class="col-sm-9 col-xs-6">
+            <div class="nav-wrap">
+              <nav id="nav" class="nav">
+                <ul class="clearfix">
+                  <li><a href="#about">{{languages.menu['description']}}</a></li>
+                  <li><a href="#education">{{languages.menu['education']}}</a></li>
+                  <li><a href="#experience">{{languages.menu['profExp']}}</a></li>
+                  <li><a href="#skills">{{languages.menu['skills']}}</a></li>
+                  <li><a href="#qualities">{{languages.menu['qualities']}}</a></li>
+                  <li><a href="#hobbies">{{languages.menu['hobbies']}}</a></li>
+                  <li><a href="#contact">{{languages.menu['contact']}}<span></span></a></li>
+                </ul>
+              </nav>
+
+              <button class="btn-mobile btn-mobile-nav">{{languages.keywords['menu']}}</button>
+              <button class="btn-sidebar btn-sidebar-open"><i class="rsicon rsicon-menu"></i></button>
+            </div><!-- .nav-wrap -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </header><!-- .header -->
+
+  <div class="content">
+    <div class="container">
+      <app-resume></app-resume>
+      <app-contact></app-contact>
+    </div><!-- .container -->
+  </div><!-- .content -->
+  <app-footer></app-footer>
+
+</div><!-- .wrapper -->
+
+<a class="btn-scroll-top" href="#"><i class="rsicon rsicon-arrow-up"></i></a>
+<div id="overlay"></div>
+<div id="preloader">
+  <div class="preload-icon"><span></span><span></span></div>
+  <div class="preload-text">{{languages.keywords['loading']}} ...</div>
+</div>
+
+
+</body>
