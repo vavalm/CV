@@ -18,6 +18,7 @@ import { QualitiesComponent } from './resume/qualities/qualities.component';
 import { SidebarComponent } from './sidebar/sidebar.component';
 import { LegalNoticeComponent } from './legal-notice/legal-notice.component';
 import { ResumeComponent } from './resume/resume.component';
+import {ReactiveFormsModule} from "@angular/forms";
 
 @NgModule({
   declarations: [
@@ -38,9 +39,10 @@ import { ResumeComponent } from './resume/resume.component';
     LegalNoticeComponent,
     ResumeComponent
   ],
-  imports: [
-    BrowserModule
-  ],
+    imports: [
+        BrowserModule,
+        ReactiveFormsModule
+    ],
   providers: [
     LanguagesService
   ],

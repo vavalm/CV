@@ -7,30 +7,30 @@
         <div class="section-box contact-form">
           <h3>{{languages.contact['title']}}</h3>
 
-          <form class="contactForm" action="recaptcha.php" method="post" data-captcha="true">
-            <div class="input-field">
-              <input class="contact-name" type="text" name="name"
+          <form [formGroup]="mailForm" (ngSubmit)="onSubmitForm()" class="contactForm" action="recaptcha.php" method="post" data-captcha="true">
+            <div class="input-field form-group">
+              <input class="contact-name" type="text" name="name" formControlName="name"
                      title="Enter your family name and your first name"/>
               <span class="line"></span>
               <label>{{languages.keywords['name']}}</label>
             </div>
 
-            <div class="input-field">
-              <input class="contact-email" type="email" name="email"
+            <div class="input-field form-group">
+              <input class="contact-email" type="email" name="email" formControlName="email"
                      title="Entrer your email address"/>
               <span class="line"></span>
               <label>{{languages.keywords['email']}}</label>
             </div>
 
-            <div class="input-field">
-              <input class="contact-subject" type="text" name="subject"
+            <div class="input-field form-group">
+              <input class="contact-subject" type="text" name="subject" formControlName="subject"
                      title="Enter the subject of your message"/>
               <span class="line"></span>
               <label>{{languages.keywords['subject']}}</label>
             </div>
 
-            <div class="input-field">
-                                        <textarea class="contact-message" rows="4" name="message"
+            <div class="input-field form-group">
+                                        <textarea class="contact-message" rows="4" name="message" formControlName="message"
                                                   title="Enter your message to send to Valentin"></textarea>
               <span class="line"></span>
               <label>{{languages.keywords['message']}}</label>
