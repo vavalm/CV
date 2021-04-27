@@ -1,6 +1,16 @@
 const Mail = require('../models/mail');
 
 /**
+ * ping the email service
+ * @param req
+ * @param res
+ * @param next
+ */
+exports.pingMail = (req, res, next) => {
+    res.status(201).json({ message: 'Pong!'});
+}
+
+/**
  * Send a mail
  * @param req
  * @param res
